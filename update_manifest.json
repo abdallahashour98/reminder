@@ -1,26 +1,37 @@
 {
-  "latestVersion": "1.0.1",
-  "latestVersionCode": 2,
+  "latestVersion": "1.0.2",
+  "latestVersionCode": 3,
   "releaseDate": "2026-09-30",
-  "releaseNotes": "تحديث تجريبي: فحص التحديث الذكي OTA وتوفير البيانات",
+  "releaseNotes": "دعم كامل لمحادثة Gemini Live الصوتية المباشرة وحل مشكلة توقف التسجيل",
   "fullApk": {
-    "fileName": "Reminder_v1.0.1.apk",
-    "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.0.1.apk",
-    "sizeBytes": 21902165,
-    "sizeFormatted": "20.89 MB",
-    "sha256": "844061ace5a01c61568d23e22a4284dfb37e3aa28ff6b1398cbe2eaae182d432"
+    "fileName": "Reminder_v1.0.2.apk",
+    "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.0.2.apk",
+    "sizeBytes": 22067345,
+    "sizeFormatted": "21.05 MB",
+    "sha256": "f48d130344552b966ce986fee84bafb96cc36022a99bee66da5acc995bfe30f8"
   },
   "patches": [
     {
       "fromVersion": "1.0.0",
       "fromVersionCode": 1,
-      "fileName": "patch_v1.0.0_to_v1.0.1.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.0_to_v1.0.1.patch",
-      "sizeBytes": 10263967,
-      "sizeFormatted": "9.79 MB",
+      "fileName": "patch_v1.0.0_to_v1.0.2.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.0_to_v1.0.2.patch",
+      "sizeBytes": 10322629,
+      "sizeFormatted": "9.84 MB",
       "fromSha256": "836bde8029b21a636cfa3339829af7eab6ec3192e741e8516d01d7ad462e7d17",
-      "patchSha256": "bbff15a22475e591c9d44d03ef72e9fa81cdd8155442d50cba913c96568100ac",
-      "targetSha256": "844061ace5a01c61568d23e22a4284dfb37e3aa28ff6b1398cbe2eaae182d432"
+      "patchSha256": "bc26ffd3e6eb73c5cd69ef4e8ce08a51ed1ea717c249a70b4a404439fa05cdc5",
+      "targetSha256": "f48d130344552b966ce986fee84bafb96cc36022a99bee66da5acc995bfe30f8"
+    },
+    {
+      "fromVersion": "1.0.1",
+      "fromVersionCode": 2,
+      "fileName": "patch_v1.0.1_to_v1.0.2.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.1_to_v1.0.2.patch",
+      "sizeBytes": 4971861,
+      "sizeFormatted": "4.74 MB",
+      "fromSha256": "844061ace5a01c61568d23e22a4284dfb37e3aa28ff6b1398cbe2eaae182d432",
+      "patchSha256": "9b1b715ac96e9898f881cfd114184bc934bd88b81bb2088872b34f05dc9bc3f5",
+      "targetSha256": "f48d130344552b966ce986fee84bafb96cc36022a99bee66da5acc995bfe30f8"
     }
   ]
 }

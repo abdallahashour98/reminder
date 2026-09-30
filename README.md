@@ -9,5 +9,5 @@ This repository serves strictly as the release distribution channel:
 - **Official Releases**: Hosted on GitHub Releases with verified SHA-256 checksums.
 
 ## 📦 Latest Release
-- **Version**: v1.0.1
+- **Version**: v1.0.2
 - **Download**: [GitHub Releases](https://github.com/abdallahashour98/reminder/releases/latest)
