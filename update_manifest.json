@@ -2,13 +2,13 @@
   "latestVersion": "1.0.0",
   "latestVersionCode": 1,
   "releaseDate": "2026-09-30",
-  "releaseNotes": "الإصدار الأولي لتطبيق يومي مع نظام التحديث الذكي OTA",
+  "releaseNotes": "الإصدار الأولي لتطبيق يومي مع نظام التحديث الذكي OTA وتوفير البيانات",
   "fullApk": {
     "fileName": "Reminder_v1.0.0.apk",
     "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.0.0.apk",
-    "sizeBytes": 0,
-    "sizeFormatted": "0 MB",
-    "sha256": ""
+    "sizeBytes": 21819649,
+    "sizeFormatted": "20.81 MB",
+    "sha256": "836bde8029b21a636cfa3339829af7eab6ec3192e741e8516d01d7ad462e7d17"
   },
   "patches": []
 }
