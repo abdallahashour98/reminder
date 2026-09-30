@@ -1,14 +1,26 @@
 {
-  "latestVersion": "1.0.0",
-  "latestVersionCode": 1,
+  "latestVersion": "1.0.1",
+  "latestVersionCode": 2,
   "releaseDate": "2026-09-30",
-  "releaseNotes": "الإصدار الأولي لتطبيق يومي مع نظام التحديث الذكي OTA وتوفير البيانات",
+  "releaseNotes": "تحديث تجريبي: فحص التحديث الذكي OTA وتوفير البيانات",
   "fullApk": {
-    "fileName": "Reminder_v1.0.0.apk",
-    "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.0.0.apk",
-    "sizeBytes": 21819649,
-    "sizeFormatted": "20.81 MB",
-    "sha256": "836bde8029b21a636cfa3339829af7eab6ec3192e741e8516d01d7ad462e7d17"
+    "fileName": "Reminder_v1.0.1.apk",
+    "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.0.1.apk",
+    "sizeBytes": 21902165,
+    "sizeFormatted": "20.89 MB",
+    "sha256": "844061ace5a01c61568d23e22a4284dfb37e3aa28ff6b1398cbe2eaae182d432"
   },
-  "patches": []
+  "patches": [
+    {
+      "fromVersion": "1.0.0",
+      "fromVersionCode": 1,
+      "fileName": "patch_v1.0.0_to_v1.0.1.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.0_to_v1.0.1.patch",
+      "sizeBytes": 10263967,
+      "sizeFormatted": "9.79 MB",
+      "fromSha256": "836bde8029b21a636cfa3339829af7eab6ec3192e741e8516d01d7ad462e7d17",
+      "patchSha256": "bbff15a22475e591c9d44d03ef72e9fa81cdd8155442d50cba913c96568100ac",
+      "targetSha256": "844061ace5a01c61568d23e22a4284dfb37e3aa28ff6b1398cbe2eaae182d432"
+    }
+  ]
 }
