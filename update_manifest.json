@@ -1,48 +1,48 @@
 {
-  "latestVersion": "1.0.6",
-  "latestVersionCode": 9,
+  "latestVersion": "1.0.7",
+  "latestVersionCode": 10,
   "releaseDate": "2026-10-01",
-  "releaseNotes": "إصلاح جذري لنظام تثبيت التحديثات وتطابق أكواد الإصدارات وحل مشكلة تكرار رسالة التثبيت",
+  "releaseNotes": "Fix Gemini Live official models, microphone permissions handling, and speech recognition fallbacks",
   "fullApk": {
-    "fileName": "Reminder_v1.0.6.apk",
-    "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.0.6.apk",
-    "sizeBytes": 59349975,
-    "sizeFormatted": "56.60 MB",
-    "sha256": "9946a13064b4ea91ef7da721fc6bfbc807e1cd5c14f0945bf2ccdc74a8c55885"
+    "fileName": "Reminder_v1.0.7.apk",
+    "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.0.7.apk",
+    "sizeBytes": 59416155,
+    "sizeFormatted": "56.66 MB",
+    "sha256": "30567c9d90115456e3e95c50c521ce6419ab33f1ff54502c683af279561aca33"
   },
   "patches": [
     {
-      "fromVersion": "1.0.3",
-      "fromVersionCode": 4,
-      "fileName": "patch_v1.0.3_to_v1.0.6.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.3_to_v1.0.6.patch",
-      "sizeBytes": 20322776,
-      "sizeFormatted": "19.38 MB",
-      "fromSha256": "8429d516c19da99417ed5eb1d74dddb7c425e4e9ef7ec75e5f0608136d19f8d8",
-      "patchSha256": "c4b8a3e76c84410258048003951eae55775b600c8618c736ecc09507ca2ae767",
-      "targetSha256": "9946a13064b4ea91ef7da721fc6bfbc807e1cd5c14f0945bf2ccdc74a8c55885"
-    },
-    {
       "fromVersion": "1.0.4",
       "fromVersionCode": 5,
-      "fileName": "patch_v1.0.4_to_v1.0.6.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.4_to_v1.0.6.patch",
-      "sizeBytes": 20322775,
-      "sizeFormatted": "19.38 MB",
+      "fileName": "patch_v1.0.4_to_v1.0.7.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.4_to_v1.0.7.patch",
+      "sizeBytes": 20332470,
+      "sizeFormatted": "19.39 MB",
       "fromSha256": "1f947e0eb080ce357e917d59f4871840145be7233bc93a71a537789abf76f5bc",
-      "patchSha256": "f907d56f8dace15e583cb01766c59f69d3c951c54553d1d8aa7ec4c568d1e45c",
-      "targetSha256": "9946a13064b4ea91ef7da721fc6bfbc807e1cd5c14f0945bf2ccdc74a8c55885"
+      "patchSha256": "a7d901f5d4fa4a7eef342efdd91f03c5d53b96d0e11320d753abd21271e26ad1",
+      "targetSha256": "30567c9d90115456e3e95c50c521ce6419ab33f1ff54502c683af279561aca33"
     },
     {
       "fromVersion": "1.0.5",
       "fromVersionCode": 6,
-      "fileName": "patch_v1.0.5_to_v1.0.6.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.5_to_v1.0.6.patch",
-      "sizeBytes": 20325605,
-      "sizeFormatted": "19.38 MB",
+      "fileName": "patch_v1.0.5_to_v1.0.7.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.5_to_v1.0.7.patch",
+      "sizeBytes": 20331028,
+      "sizeFormatted": "19.39 MB",
       "fromSha256": "1f02bb2c1304a68e4d7a459a2bf1e2b3b39a9b70ad1707efeee43e78302c9806",
-      "patchSha256": "5568a02b6cf1a0092f2ced3d02b903f45b840f4d1179e6402a4494f6a1aa09d9",
-      "targetSha256": "9946a13064b4ea91ef7da721fc6bfbc807e1cd5c14f0945bf2ccdc74a8c55885"
+      "patchSha256": "f495f47e523de31bc9218aa0f2627d4dc26db4cb97e3d003a030d74594803231",
+      "targetSha256": "30567c9d90115456e3e95c50c521ce6419ab33f1ff54502c683af279561aca33"
+    },
+    {
+      "fromVersion": "1.0.6",
+      "fromVersionCode": 9,
+      "fileName": "patch_v1.0.6_to_v1.0.7.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.6_to_v1.0.7.patch",
+      "sizeBytes": 10211688,
+      "sizeFormatted": "9.74 MB",
+      "fromSha256": "9946a13064b4ea91ef7da721fc6bfbc807e1cd5c14f0945bf2ccdc74a8c55885",
+      "patchSha256": "b98670becb02dec0cbb3c675b6f757882c039ea797678d1dcb0e3c92fd9082f2",
+      "targetSha256": "30567c9d90115456e3e95c50c521ce6419ab33f1ff54502c683af279561aca33"
     }
   ]
 }
