@@ -1,48 +1,48 @@
 {
-  "latestVersion": "1.0.5",
-  "latestVersionCode": 7,
+  "latestVersion": "1.0.6",
+  "latestVersionCode": 9,
   "releaseDate": "2026-10-01",
-  "releaseNotes": "دعم نماذج Gemini 3.8 و 3.5 و Gemini 3.1 Live الرسمية مع مبدل النماذج التفاعلي",
+  "releaseNotes": "إصلاح جذري لنظام تثبيت التحديثات وتطابق أكواد الإصدارات وحل مشكلة تكرار رسالة التثبيت",
   "fullApk": {
-    "fileName": "Reminder_v1.0.5.apk",
-    "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.0.5.apk",
-    "sizeBytes": 22133357,
-    "sizeFormatted": "21.11 MB",
-    "sha256": "1f02bb2c1304a68e4d7a459a2bf1e2b3b39a9b70ad1707efeee43e78302c9806"
+    "fileName": "Reminder_v1.0.6.apk",
+    "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.0.6.apk",
+    "sizeBytes": 59349975,
+    "sizeFormatted": "56.60 MB",
+    "sha256": "9946a13064b4ea91ef7da721fc6bfbc807e1cd5c14f0945bf2ccdc74a8c55885"
   },
   "patches": [
     {
-      "fromVersion": "1.0.2",
-      "fromVersionCode": 3,
-      "fileName": "patch_v1.0.2_to_v1.0.5.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.2_to_v1.0.5.patch",
-      "sizeBytes": 3032749,
-      "sizeFormatted": "2.89 MB",
-      "fromSha256": "f48d130344552b966ce986fee84bafb96cc36022a99bee66da5acc995bfe30f8",
-      "patchSha256": "a72fcebd3dbedc5ae090de9189ef73826df7fdf5b8438c2b6af407ac8127941b",
-      "targetSha256": "1f02bb2c1304a68e4d7a459a2bf1e2b3b39a9b70ad1707efeee43e78302c9806"
-    },
-    {
       "fromVersion": "1.0.3",
       "fromVersionCode": 4,
-      "fileName": "patch_v1.0.3_to_v1.0.5.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.3_to_v1.0.5.patch",
-      "sizeBytes": 3029944,
-      "sizeFormatted": "2.89 MB",
+      "fileName": "patch_v1.0.3_to_v1.0.6.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.3_to_v1.0.6.patch",
+      "sizeBytes": 20322776,
+      "sizeFormatted": "19.38 MB",
       "fromSha256": "8429d516c19da99417ed5eb1d74dddb7c425e4e9ef7ec75e5f0608136d19f8d8",
-      "patchSha256": "36ddc24a64df6f766273befa76cf73d2782bbb9998178ee3eb36072710cb5f5e",
-      "targetSha256": "1f02bb2c1304a68e4d7a459a2bf1e2b3b39a9b70ad1707efeee43e78302c9806"
+      "patchSha256": "c4b8a3e76c84410258048003951eae55775b600c8618c736ecc09507ca2ae767",
+      "targetSha256": "9946a13064b4ea91ef7da721fc6bfbc807e1cd5c14f0945bf2ccdc74a8c55885"
     },
     {
       "fromVersion": "1.0.4",
       "fromVersionCode": 5,
-      "fileName": "patch_v1.0.4_to_v1.0.5.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.4_to_v1.0.5.patch",
-      "sizeBytes": 3033013,
-      "sizeFormatted": "2.89 MB",
+      "fileName": "patch_v1.0.4_to_v1.0.6.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.4_to_v1.0.6.patch",
+      "sizeBytes": 20322775,
+      "sizeFormatted": "19.38 MB",
       "fromSha256": "1f947e0eb080ce357e917d59f4871840145be7233bc93a71a537789abf76f5bc",
-      "patchSha256": "3b8c0236738b6459804bc525d93272737f29528c2e663b15ffe94377f6bf01f2",
-      "targetSha256": "1f02bb2c1304a68e4d7a459a2bf1e2b3b39a9b70ad1707efeee43e78302c9806"
+      "patchSha256": "f907d56f8dace15e583cb01766c59f69d3c951c54553d1d8aa7ec4c568d1e45c",
+      "targetSha256": "9946a13064b4ea91ef7da721fc6bfbc807e1cd5c14f0945bf2ccdc74a8c55885"
+    },
+    {
+      "fromVersion": "1.0.5",
+      "fromVersionCode": 6,
+      "fileName": "patch_v1.0.5_to_v1.0.6.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.5_to_v1.0.6.patch",
+      "sizeBytes": 20325605,
+      "sizeFormatted": "19.38 MB",
+      "fromSha256": "1f02bb2c1304a68e4d7a459a2bf1e2b3b39a9b70ad1707efeee43e78302c9806",
+      "patchSha256": "5568a02b6cf1a0092f2ced3d02b903f45b840f4d1179e6402a4494f6a1aa09d9",
+      "targetSha256": "9946a13064b4ea91ef7da721fc6bfbc807e1cd5c14f0945bf2ccdc74a8c55885"
     }
   ]
 }
