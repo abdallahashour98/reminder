@@ -1,48 +1,48 @@
 {
-  "latestVersion": "1.0.8",
-  "latestVersionCode": 11,
-  "releaseDate": "2026-10-01",
-  "releaseNotes": "اصلاح التسجيل الصوتي ودعم التسجيل المباشر عبر Gemini، وحل اذونات الميكروفون وتحسين استقرار Gemini Live",
+  "latestVersion": "1.0.9",
+  "latestVersionCode": 12,
+  "releaseDate": "2026-10-02",
+  "releaseNotes": "دعم وتشغيل نموذج Gemini 3.8 Live الرسمي للمحادثات الصوتية الحية وتحسين صيغة بث الصوت mediaChunks",
   "fullApk": {
-    "fileName": "Reminder_v1.0.8.apk",
-    "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.0.8.apk",
+    "fileName": "Reminder_v1.0.9.apk",
+    "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.0.9.apk",
     "sizeBytes": 59514607,
     "sizeFormatted": "56.76 MB",
-    "sha256": "f8476d8f7f1735407335e30602c5051026e0ef704e181bc6e15dcc612154976e"
+    "sha256": "b528ccd23f2600eef60f749255488c7653fe437dedb3c4c1a7caa435414e17c2"
   },
   "patches": [
     {
-      "fromVersion": "1.0.5",
-      "fromVersionCode": 6,
-      "fileName": "patch_v1.0.5_to_v1.0.8.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.5_to_v1.0.8.patch",
-      "sizeBytes": 20359373,
-      "sizeFormatted": "19.42 MB",
-      "fromSha256": "1f02bb2c1304a68e4d7a459a2bf1e2b3b39a9b70ad1707efeee43e78302c9806",
-      "patchSha256": "b7f237baf206c4106a618a381086c73c7367d1f54416786be249913bfa3e5a08",
-      "targetSha256": "f8476d8f7f1735407335e30602c5051026e0ef704e181bc6e15dcc612154976e"
-    },
-    {
       "fromVersion": "1.0.6",
       "fromVersionCode": 9,
-      "fileName": "patch_v1.0.6_to_v1.0.8.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.6_to_v1.0.8.patch",
-      "sizeBytes": 10228825,
-      "sizeFormatted": "9.75 MB",
+      "fileName": "patch_v1.0.6_to_v1.0.9.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.6_to_v1.0.9.patch",
+      "sizeBytes": 10241163,
+      "sizeFormatted": "9.77 MB",
       "fromSha256": "9946a13064b4ea91ef7da721fc6bfbc807e1cd5c14f0945bf2ccdc74a8c55885",
-      "patchSha256": "aed45c12d2cffb91b25a6a28ce5fd32eb12e7ec650dfa6ca437435602d9b480a",
-      "targetSha256": "f8476d8f7f1735407335e30602c5051026e0ef704e181bc6e15dcc612154976e"
+      "patchSha256": "9ad47c2316f3a1e2ddf9ede84a0584a358635200d947884a40fdae944668dbeb",
+      "targetSha256": "b528ccd23f2600eef60f749255488c7653fe437dedb3c4c1a7caa435414e17c2"
     },
     {
       "fromVersion": "1.0.7",
       "fromVersionCode": 10,
-      "fileName": "patch_v1.0.7_to_v1.0.8.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.7_to_v1.0.8.patch",
-      "sizeBytes": 10233683,
+      "fileName": "patch_v1.0.7_to_v1.0.9.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.7_to_v1.0.9.patch",
+      "sizeBytes": 10239253,
       "sizeFormatted": "9.76 MB",
       "fromSha256": "30567c9d90115456e3e95c50c521ce6419ab33f1ff54502c683af279561aca33",
-      "patchSha256": "289b4ee8f3a883ec20bcfda6c95bab451794be8fc39bb7c76186a8ce3afe1722",
-      "targetSha256": "f8476d8f7f1735407335e30602c5051026e0ef704e181bc6e15dcc612154976e"
+      "patchSha256": "f67509a5f93217900ab2c4f60e9b4b21e3a251f543b86915080934d28fb02050",
+      "targetSha256": "b528ccd23f2600eef60f749255488c7653fe437dedb3c4c1a7caa435414e17c2"
+    },
+    {
+      "fromVersion": "1.0.8",
+      "fromVersionCode": 11,
+      "fileName": "patch_v1.0.8_to_v1.0.9.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.8_to_v1.0.9.patch",
+      "sizeBytes": 8154076,
+      "sizeFormatted": "7.78 MB",
+      "fromSha256": "f8476d8f7f1735407335e30602c5051026e0ef704e181bc6e15dcc612154976e",
+      "patchSha256": "064a112a00278322e6eb2e75c1c760a64b61e10143bb04d1770fb6d7f75358f2",
+      "targetSha256": "b528ccd23f2600eef60f749255488c7653fe437dedb3c4c1a7caa435414e17c2"
     }
   ]
 }
