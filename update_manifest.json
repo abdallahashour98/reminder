@@ -1,48 +1,48 @@
 {
-  "latestVersion": "1.0.9",
-  "latestVersionCode": 12,
+  "latestVersion": "1.0.10",
+  "latestVersionCode": 13,
   "releaseDate": "2026-10-02",
-  "releaseNotes": "دعم وتشغيل نموذج Gemini 3.8 Live الرسمي للمحادثات الصوتية الحية وتحسين صيغة بث الصوت mediaChunks",
+  "releaseNotes": "123",
   "fullApk": {
-    "fileName": "Reminder_v1.0.9.apk",
-    "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.0.9.apk",
-    "sizeBytes": 59514607,
-    "sizeFormatted": "56.76 MB",
-    "sha256": "b528ccd23f2600eef60f749255488c7653fe437dedb3c4c1a7caa435414e17c2"
+    "fileName": "Reminder_v1.0.10.apk",
+    "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.0.10.apk",
+    "sizeBytes": 22199773,
+    "sizeFormatted": "21.17 MB",
+    "sha256": "45c657cddb41e638064b398cea4d1efd25ba6e44d0bda5a2c90911c1cc36b5f2"
   },
   "patches": [
     {
-      "fromVersion": "1.0.6",
-      "fromVersionCode": 9,
-      "fileName": "patch_v1.0.6_to_v1.0.9.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.6_to_v1.0.9.patch",
-      "sizeBytes": 10241163,
-      "sizeFormatted": "9.77 MB",
-      "fromSha256": "9946a13064b4ea91ef7da721fc6bfbc807e1cd5c14f0945bf2ccdc74a8c55885",
-      "patchSha256": "9ad47c2316f3a1e2ddf9ede84a0584a358635200d947884a40fdae944668dbeb",
-      "targetSha256": "b528ccd23f2600eef60f749255488c7653fe437dedb3c4c1a7caa435414e17c2"
-    },
-    {
       "fromVersion": "1.0.7",
       "fromVersionCode": 10,
-      "fileName": "patch_v1.0.7_to_v1.0.9.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.7_to_v1.0.9.patch",
-      "sizeBytes": 10239253,
-      "sizeFormatted": "9.76 MB",
+      "fileName": "patch_v1.0.7_to_v1.0.10.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.7_to_v1.0.10.patch",
+      "sizeBytes": 5038976,
+      "sizeFormatted": "4.81 MB",
       "fromSha256": "30567c9d90115456e3e95c50c521ce6419ab33f1ff54502c683af279561aca33",
-      "patchSha256": "f67509a5f93217900ab2c4f60e9b4b21e3a251f543b86915080934d28fb02050",
-      "targetSha256": "b528ccd23f2600eef60f749255488c7653fe437dedb3c4c1a7caa435414e17c2"
+      "patchSha256": "35663b19178263935a4a28d49b0e86d11efcdedf6e5ebe24942a105aab944c8e",
+      "targetSha256": "45c657cddb41e638064b398cea4d1efd25ba6e44d0bda5a2c90911c1cc36b5f2"
     },
     {
       "fromVersion": "1.0.8",
       "fromVersionCode": 11,
-      "fileName": "patch_v1.0.8_to_v1.0.9.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.8_to_v1.0.9.patch",
-      "sizeBytes": 8154076,
-      "sizeFormatted": "7.78 MB",
+      "fileName": "patch_v1.0.8_to_v1.0.10.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.8_to_v1.0.10.patch",
+      "sizeBytes": 3256716,
+      "sizeFormatted": "3.11 MB",
       "fromSha256": "f8476d8f7f1735407335e30602c5051026e0ef704e181bc6e15dcc612154976e",
-      "patchSha256": "064a112a00278322e6eb2e75c1c760a64b61e10143bb04d1770fb6d7f75358f2",
-      "targetSha256": "b528ccd23f2600eef60f749255488c7653fe437dedb3c4c1a7caa435414e17c2"
+      "patchSha256": "0e7387402ff8629d56003d1d3992e366ad765aaa51c47739d0f74744b7e51ab6",
+      "targetSha256": "45c657cddb41e638064b398cea4d1efd25ba6e44d0bda5a2c90911c1cc36b5f2"
+    },
+    {
+      "fromVersion": "1.0.9",
+      "fromVersionCode": 12,
+      "fileName": "patch_v1.0.9_to_v1.0.10.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.9_to_v1.0.10.patch",
+      "sizeBytes": 3256311,
+      "sizeFormatted": "3.11 MB",
+      "fromSha256": "b528ccd23f2600eef60f749255488c7653fe437dedb3c4c1a7caa435414e17c2",
+      "patchSha256": "eb1a1dfa603f82a8231f8e96a2026878f2d3e77a574414a03427d7bdd3916561",
+      "targetSha256": "45c657cddb41e638064b398cea4d1efd25ba6e44d0bda5a2c90911c1cc36b5f2"
     }
   ]
 }
