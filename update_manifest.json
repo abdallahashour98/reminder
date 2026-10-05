@@ -1,48 +1,48 @@
 {
-  "latestVersion": "1.3.0",
-  "latestVersionCode": 17,
+  "latestVersion": "1.3.1",
+  "latestVersionCode": 18,
   "releaseDate": "2026-10-05",
-  "releaseNotes": "2",
+  "releaseNotes": "fix",
   "fullApk": {
-    "fileName": "Reminder_v1.3.0.apk",
-    "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.3.0.apk",
-    "sizeBytes": 61159451,
+    "fileName": "Reminder_v1.3.1.apk",
+    "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.3.1.apk",
+    "sizeBytes": 61159507,
     "sizeFormatted": "58.33 MB",
-    "sha256": "d8966853e2cb8d791d16a04eb0e57e32cb37f86323cfed84216d1b1a0562de87"
+    "sha256": "ae954d26b1a717bdb2ccee85ce871f16bff0231f2d4eadf6f5ce471fff06cffd"
   },
   "patches": [
     {
-      "fromVersion": "1.0.9",
-      "fromVersionCode": 12,
-      "fileName": "patch_v1.0.9_to_v1.3.0.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.9_to_v1.3.0.patch",
-      "sizeBytes": 26310068,
-      "sizeFormatted": "25.09 MB",
-      "fromSha256": "b528ccd23f2600eef60f749255488c7653fe437dedb3c4c1a7caa435414e17c2",
-      "patchSha256": "429d39778001f0081e20c6904e146902d8e0d4e3728222633c0783d87f5ee68c",
-      "targetSha256": "d8966853e2cb8d791d16a04eb0e57e32cb37f86323cfed84216d1b1a0562de87"
-    },
-    {
       "fromVersion": "1.0.10",
       "fromVersionCode": 13,
-      "fileName": "patch_v1.0.10_to_v1.3.0.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.10_to_v1.3.0.patch",
-      "sizeBytes": 26309427,
+      "fileName": "patch_v1.0.10_to_v1.3.1.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.10_to_v1.3.1.patch",
+      "sizeBytes": 26311039,
       "sizeFormatted": "25.09 MB",
       "fromSha256": "45c657cddb41e638064b398cea4d1efd25ba6e44d0bda5a2c90911c1cc36b5f2",
-      "patchSha256": "606b76bf22331054de5fd9fccad0ff2deb5cd3de728010b89acc3baee6628861",
-      "targetSha256": "d8966853e2cb8d791d16a04eb0e57e32cb37f86323cfed84216d1b1a0562de87"
+      "patchSha256": "cc482b5d93ce235f119d6ba96c2eca3a40ee1b3987292202f33c0f604e2a5e62",
+      "targetSha256": "ae954d26b1a717bdb2ccee85ce871f16bff0231f2d4eadf6f5ce471fff06cffd"
     },
     {
       "fromVersion": "1.2.1",
       "fromVersionCode": 16,
-      "fileName": "patch_v1.2.1_to_v1.3.0.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.2.1_to_v1.3.0.patch",
-      "sizeBytes": 16346861,
-      "sizeFormatted": "15.59 MB",
+      "fileName": "patch_v1.2.1_to_v1.3.1.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.2.1_to_v1.3.1.patch",
+      "sizeBytes": 18981704,
+      "sizeFormatted": "18.10 MB",
       "fromSha256": "a35b70b8d970f028cb7e219ac0a4f6c51204dee6f0d7e306f6165ff45ef555f8",
-      "patchSha256": "696f91d068d4bd53d2f84359c969a8a3c8bedfe0a87b881c6d54fa8933b1d0c0",
-      "targetSha256": "d8966853e2cb8d791d16a04eb0e57e32cb37f86323cfed84216d1b1a0562de87"
+      "patchSha256": "fb7fad13c60b2aefdce31ccb1ed9073be8536c30e04eccee966e8aec389d6d52",
+      "targetSha256": "ae954d26b1a717bdb2ccee85ce871f16bff0231f2d4eadf6f5ce471fff06cffd"
+    },
+    {
+      "fromVersion": "1.3.0",
+      "fromVersionCode": 17,
+      "fileName": "patch_v1.3.0_to_v1.3.1.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.3.0_to_v1.3.1.patch",
+      "sizeBytes": 8758571,
+      "sizeFormatted": "8.35 MB",
+      "fromSha256": "d8966853e2cb8d791d16a04eb0e57e32cb37f86323cfed84216d1b1a0562de87",
+      "patchSha256": "930a18bb42aaf299e8a07664b767e6e874ab56c6a4b095af98691e26340b7150",
+      "targetSha256": "ae954d26b1a717bdb2ccee85ce871f16bff0231f2d4eadf6f5ce471fff06cffd"
     }
   ]
 }
