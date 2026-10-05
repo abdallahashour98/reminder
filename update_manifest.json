@@ -1,48 +1,48 @@
 {
-  "latestVersion": "1.0.10",
-  "latestVersionCode": 13,
-  "releaseDate": "2026-10-02",
-  "releaseNotes": "123",
+  "latestVersion": "1.3.0",
+  "latestVersionCode": 17,
+  "releaseDate": "2026-10-05",
+  "releaseNotes": "2",
   "fullApk": {
-    "fileName": "Reminder_v1.0.10.apk",
-    "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.0.10.apk",
-    "sizeBytes": 22199773,
-    "sizeFormatted": "21.17 MB",
-    "sha256": "45c657cddb41e638064b398cea4d1efd25ba6e44d0bda5a2c90911c1cc36b5f2"
+    "fileName": "Reminder_v1.3.0.apk",
+    "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/Reminder_v1.3.0.apk",
+    "sizeBytes": 61159451,
+    "sizeFormatted": "58.33 MB",
+    "sha256": "d8966853e2cb8d791d16a04eb0e57e32cb37f86323cfed84216d1b1a0562de87"
   },
   "patches": [
     {
-      "fromVersion": "1.0.7",
-      "fromVersionCode": 10,
-      "fileName": "patch_v1.0.7_to_v1.0.10.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.7_to_v1.0.10.patch",
-      "sizeBytes": 5038976,
-      "sizeFormatted": "4.81 MB",
-      "fromSha256": "30567c9d90115456e3e95c50c521ce6419ab33f1ff54502c683af279561aca33",
-      "patchSha256": "35663b19178263935a4a28d49b0e86d11efcdedf6e5ebe24942a105aab944c8e",
-      "targetSha256": "45c657cddb41e638064b398cea4d1efd25ba6e44d0bda5a2c90911c1cc36b5f2"
-    },
-    {
-      "fromVersion": "1.0.8",
-      "fromVersionCode": 11,
-      "fileName": "patch_v1.0.8_to_v1.0.10.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.8_to_v1.0.10.patch",
-      "sizeBytes": 3256716,
-      "sizeFormatted": "3.11 MB",
-      "fromSha256": "f8476d8f7f1735407335e30602c5051026e0ef704e181bc6e15dcc612154976e",
-      "patchSha256": "0e7387402ff8629d56003d1d3992e366ad765aaa51c47739d0f74744b7e51ab6",
-      "targetSha256": "45c657cddb41e638064b398cea4d1efd25ba6e44d0bda5a2c90911c1cc36b5f2"
-    },
-    {
       "fromVersion": "1.0.9",
       "fromVersionCode": 12,
-      "fileName": "patch_v1.0.9_to_v1.0.10.patch",
-      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.9_to_v1.0.10.patch",
-      "sizeBytes": 3256311,
-      "sizeFormatted": "3.11 MB",
+      "fileName": "patch_v1.0.9_to_v1.3.0.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.9_to_v1.3.0.patch",
+      "sizeBytes": 26310068,
+      "sizeFormatted": "25.09 MB",
       "fromSha256": "b528ccd23f2600eef60f749255488c7653fe437dedb3c4c1a7caa435414e17c2",
-      "patchSha256": "eb1a1dfa603f82a8231f8e96a2026878f2d3e77a574414a03427d7bdd3916561",
-      "targetSha256": "45c657cddb41e638064b398cea4d1efd25ba6e44d0bda5a2c90911c1cc36b5f2"
+      "patchSha256": "429d39778001f0081e20c6904e146902d8e0d4e3728222633c0783d87f5ee68c",
+      "targetSha256": "d8966853e2cb8d791d16a04eb0e57e32cb37f86323cfed84216d1b1a0562de87"
+    },
+    {
+      "fromVersion": "1.0.10",
+      "fromVersionCode": 13,
+      "fileName": "patch_v1.0.10_to_v1.3.0.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.0.10_to_v1.3.0.patch",
+      "sizeBytes": 26309427,
+      "sizeFormatted": "25.09 MB",
+      "fromSha256": "45c657cddb41e638064b398cea4d1efd25ba6e44d0bda5a2c90911c1cc36b5f2",
+      "patchSha256": "606b76bf22331054de5fd9fccad0ff2deb5cd3de728010b89acc3baee6628861",
+      "targetSha256": "d8966853e2cb8d791d16a04eb0e57e32cb37f86323cfed84216d1b1a0562de87"
+    },
+    {
+      "fromVersion": "1.2.1",
+      "fromVersionCode": 16,
+      "fileName": "patch_v1.2.1_to_v1.3.0.patch",
+      "url": "https://github.com/abdallahashour98/reminder/releases/latest/download/patch_v1.2.1_to_v1.3.0.patch",
+      "sizeBytes": 16346861,
+      "sizeFormatted": "15.59 MB",
+      "fromSha256": "a35b70b8d970f028cb7e219ac0a4f6c51204dee6f0d7e306f6165ff45ef555f8",
+      "patchSha256": "696f91d068d4bd53d2f84359c969a8a3c8bedfe0a87b881c6d54fa8933b1d0c0",
+      "targetSha256": "d8966853e2cb8d791d16a04eb0e57e32cb37f86323cfed84216d1b1a0562de87"
     }
   ]
 }
